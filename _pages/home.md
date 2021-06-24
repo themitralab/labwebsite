@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Mitra Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Mitra Lab at IRCL (Lille)."
 sitemap: false
 permalink: /
 ---
