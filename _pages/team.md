@@ -11,7 +11,7 @@ permalink: /team/
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
+Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students),[collaboration](#collaboration), [alumni](#alumni).
 
 ## Staff
 {% assign number_printed = 0 %}
@@ -131,6 +131,19 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
+## Collaboration
+
+**National:**
+- Associate. Prof. Salomon Manier (CHU de Lille)
+- Associate. Prof. Nicolas Duployex (CHU de Lille)
+-	Prof. Franck Morschhauser (Prof. CHU de Lille)
+- Prof. Ibrahim Yakoub-Agha (Prof. CHU de Lille)
+-	Prof. Karin Tarte (Director UMR U1236-MICMAC)
+
+**International:**
+- Associate. Prof. Ignacio Moraga (University of Dundee, UK)
+- Prof. Joseph Melenhorst (UPenn, USA)
+- Associate Prof Mattias Carlsten (Karolinska, USA)
 
 ## Alumni
 
