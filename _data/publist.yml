@@ -5,7 +5,7 @@
   link:
     url: https://www.cell.com/cell-reports/pdf/S2211-1247(20)31534-5.pdf
     display:  Cell Reports, 2020 33 (12)
-  highlight: 0
+  highlight: 1
   news2:
 
 - title: "Universal toxin-based selection for precise genome engineering in human cells."
@@ -15,7 +15,7 @@
   link:
     url: https://www.nature.com/articles/s41467-020-20810-z.pdf
     display: Nature Communications, 12, 497, 2021
-  highlight: 0
+  highlight: 1
 
 - title: "Cytokine‐regulated Th17 plasticity in human health and diseases."
   image: YSR.png
@@ -24,7 +24,7 @@
   link:
     url: https://onlinelibrary.wiley.com/doi/epdf/10.1111/imm.13280
     display:  Immunology, 163, 1, 2021
-  highlight: 0
+  highlight: 1
 
 - title: "Cytokines orchestrating the NK-myeloid cell crosstalk in the tumor microenvironment: Implications for NK cell-based cancer immunotherapy."
   image: TBG_ARPES.png
@@ -33,7 +33,7 @@
   link:
     url: https://www.readcube.com/articles/10.3389/fimmu.2020.621225
     display: Frontiers of Immunology, 11:621225 2021
-  highlight: 0
+  highlight: 1
   news2:
 
 
@@ -44,7 +44,7 @@
   link:
     url: https://www.pnas.org/content/pnas/117/11/6047.full.pdf
     display:  PNAS, 2020 117 (11) 6047-6055
-  highlight: 0
+  highlight: 1
   news2:
 
 - title: "The 11q13.5 immune disease risk locus contains a distal enhancer  required for Treg-mediated suppression of gut inflammation."
@@ -54,7 +54,7 @@
   link:
     url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7116706/pdf/EMS113482.pdf
     display:  Nature volume 583, pages 447–452 (2020)
-  highlight: 0
+  highlight: 1
   news2:
 
 - title: "Molecular profiling of driver events and tumor-infiltrating lymphocytes in metastatic uveal melanoma"
@@ -64,7 +64,7 @@
   link:
     url: https://www.nature.com/articles/s41467-020-15606-0.pdf
     display:  Nature Communications volume 11, 1894 (2020) 
-  highlight: 0
+  highlight: 1
   news2:
 
 - title: "Kinetics of cytokine receptor trafficking determine signaling and functional selectivity"
@@ -74,7 +74,7 @@
   link:
     url: https://www.readcube.com/articles/10.7554/eLife.49314
     display:  eLife 2019 8;e49314
-  highlight: 0
+  highlight: 1
   news2:
 
 - title: "STAT5-mediated chromatin interactions in super-enhancers activate IL-2 highly inducible genes: Functional dissection of the Il2ra gene locus."
@@ -84,7 +84,7 @@
   link:
     url: https://www.pnas.org/content/pnas/114/46/12111.full.pdf
     display:  PNAS November 14, 2017 114 (46)
-  highlight:
+  highlight: 1
   news2:
 
 - title: "Interleukin-2 activity can be fine-tuned with engineered receptor signaling clamps."
@@ -94,5 +94,5 @@
   link:
     url: https://www.cell.com/immunity/pdfExtended/S1074-7613(15)00178-8
     display: Immunity. 2015 May 19; 42(5). 
-  highlight: 0
+  highlight: 1
   news2:
