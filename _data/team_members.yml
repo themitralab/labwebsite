@@ -1,11 +1,11 @@
 - name: Suman Mitra
-  photo: Milan1.jpg
+  photo: profil-picture-neutre.jpg
   info: Principal Investigator, started Nov 2018
   email: suman.mitra@inserm.fr
   number_educ: 0
 
 - name: Silvia Gaggero
-  photo: Jacky.jpg
+  photo: silvia.jpg
   info: Postdoc, started Nov 2018
   email: silvia.gaggero@inserm.fr
   number_educ: 3
@@ -14,19 +14,19 @@
   education3: PhD in Immunology (University of Genoa, IT)
 
 - name: Tiziano Ingegnere
-  photo: Koen.jpg
+  photo: tiziano.jpg
   info: Postdoc, started Feb 2021
   email: tiziano.ingegnere@inserm.fr
   number_educ: 0
 
 - name: Adeline Cozzanni
-  photo: Jiasen.png
+  photo: profil-picture-neutre.jpg
   info: Biological engineer, started Nov 2018
   email: adeline.cozzani@inserm.fr
   number_educ: 0
 
 - name: Malo Leprohon
-  photo: Damianos.jpg
+  photo: malo.jpg
   info: Bioinformatics engineer, started Feb 2021
   email: malo.leprohon@inserm.fr
   number_educ: 2
