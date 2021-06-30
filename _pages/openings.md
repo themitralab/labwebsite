@@ -12,8 +12,6 @@ permalink: /vacancies
 
 We are always looking for new group members with passion, talent, and grit!
 
-You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
-
 ### Applications for PhD and Postdoc
 
 We are happy to support talented master and recent PhD graduates to apply for Ph.D and Postdoc fellowships in the group. Please contact us if would like to follow this route in joining the lab ([email](mailto:suman.mitra@inserm.fr")). 
