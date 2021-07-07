@@ -53,9 +53,12 @@ permalink: /publications/
 
 
 ## Patents
-<em>Milan P Allan, S Gröblacher, RA Norte, M Leeuwenhoek</em><br />Novel atomic force microscopy probes with phononic crystals<br /> PCT/NL20-20/050797 (2020)
 
-<em>Milan P Allan</em><br /> Methods of manufacturing superconductor and phononic elements <br /> <a href="https://patents.google.com/patent/US10439125B2/en?inventor=Milan+ALLAN&oq=inventor:(Milan+ALLAN)">US10439125B2 (2016)</a>
+Super agonists, Partial Agonists and Antagonists of Interleukin-2 <br /> Patent no: WO2015164815A1. <br /><em>Suman Mitra, co-inventor</em><br />
+
+Methods of treating graft versus host disease with an IL-2 meutin <br /> US-10654905-B2.<br /><em>Suman Mitra, co-inventor</em><br />
+
+Novel IL-10 agonists for application in immunotherapy <br /> PE960351(GB).<br /><em>Suman Mitra, co-inventor</em><br />
 
 ## Full List of publications
 
