@@ -1,5 +1,5 @@
 - title: "CDK8 fine-tunes IL-6 transcriptional activities by limiting STAT3 resident time at the gene loci."
-  image: TBG_SL.png
+  image: CDK8_Cell_pic.png
   description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
   authors: Martinez F. J, Wang L, Pohler E, Lokau J, Garbers C, Cozzani A, Kazemian M, Mitra S, Moraga I.
   link:
@@ -9,7 +9,7 @@
   news2:
 
 - title: "Universal toxin-based selection for precise genome engineering in human cells."
-  image: TiNHigh.png
+  image: toxin_Nature_communications_pic.png
   description: We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.
   authors: Li S, Akrap N, Cerboni S, Porritt M, Wimberger S, Lundin A, Möller C, Firth M, Gordon E, Lazovic B, Sienska A, Simona Pene L, Coelho M, Ciotta G, Pellegrini G, Sini M, Xu X, Mitra S, Bohlooly-Y M, Taylor B, Sienski G, and  Maresca M.
   link:
@@ -18,7 +18,7 @@
   highlight: 1
 
 - title: "Cytokine‐regulated Th17 plasticity in human health and diseases."
-  image: YSR.png
+  image: cytokine_Th17_Immunology.png
   description: We report on a peculiar, spatially dispersing YSR state in Fe(Se,Te) that can be tuned by the tip.
   authors: Cerboni S, Gehrmann U, Preite S, Mitra S.
   link:
@@ -27,7 +27,7 @@
   highlight: 1
 
 - title: "Cytokines orchestrating the NK-myeloid cell crosstalk in the tumor microenvironment: Implications for NK cell-based cancer immunotherapy."
-  image: TBG_ARPES.png
+  image: cytokine_NK_Frontiers_Immunology.png
   description:
   authors: Gaggero S, Witt K, Carlsten M# and Mitra S
   link:
@@ -38,7 +38,7 @@
 
 
 - title: "LDH Inhibition and IL-21 Synergistically Promote CD8+ T Stemness and Antitumor Immunity."
-  image: TBG_ARPES.png
+  image: LDH_PNAS.png
   description: A first paper from the TBG collaboration is online, with beautiful data from the Baumberger group in Geneva, and great devices from the Efetov group at ICFO. We measured STM on the device.
   authors: Hermans D, Gautam S, García-Cañaveras JC, Gromer D, Mitra S, Spolski R1, Li P, Christensen S, Lin JX, Oh J, Du N, Veenbergen S, Fioravanti J, Ebina-Shibuya R, Bleck C, Neckers LM, Rabinowitz JD, Gattinoni L, Leonard WJ
   link:
@@ -48,7 +48,7 @@
   news2:
 
 - title: "The 11q13.5 immune disease risk locus contains a distal enhancer  required for Treg-mediated suppression of gut inflammation."
-  image: Direct.png
+  image: enhancer_Treg_suppression_Nature.png
   authors: Nasrallah R, Grant FM, Bossini-Castill L, Imianowski CJ, Sadiyah F, Mumbach MR, Glinos D, Vardaka P, Lozan T, Fujii H, , Yang J, Andrews S, Mitra S, Unutmaz D, Lugli E Trynka G and Roychoudhuri R
   description: We directly test the consistency of results from these three techniques by comparing data from the correlated metal Sr2RhO4. Using ARPES, STM, and quantum oscillations, we find good agreement for the Fermi surface topography and carrier effective masses. Hence, the apparent absence of such an agreement in other quantum materials, including the cuprates, suggests that the electronic states in these materials are of different, non-Fermi liquid-like nature. Collaboration with the groups of <a href='https://dqmp.unige.ch/baumberger/'>Baumberger</a>, <a href='https://www.london-nano.com/our-people/our-people-bios/robin-perry'>Perry</a>,  and <a href='https://www.mpg.de/6812374/chem_physik_fester_stoffe_mackenzie'>Mackenzie</a>.
   link:
@@ -58,7 +58,7 @@
   news2:
 
 - title: "Molecular profiling of driver events and tumor-infiltrating lymphocytes in metastatic uveal melanoma"
-  image: TBG_ARPES.png
+  image: melanoma_driver_Nature_Communication.png
   authors: Karlsson J, Nilsson LM, Mitra S, Alsén S, Shelke G, Sah VR, Stierner U, Forsberg EV, All-Eriksson C, Einarsdottir B, Jespersen H, Ny L, Lindnér P, Larsson E, Bagge RO, Nilsson JA
   description:
   link:
@@ -68,7 +68,7 @@
   news2:
 
 - title: "Kinetics of cytokine receptor trafficking determine signaling and functional selectivity"
-  image: TBG_ARPES.png
+  image: Cytokine_kinetic_elife.png
   description: A first paper from the TBG collaboration is online, with beautiful data from the Baumberger group in Geneva, and great devices from the Efetov group at ICFO. We measured STM on the device.
   authors: Martinez F. J, Wilmes S, Wang L, Hafer M, Pohler E, Lokau J, Garbers C, Cozzani A, Piehler J, Kazeman M, Mitra S, Moraga I
   link:
@@ -78,7 +78,7 @@
   news2:
 
 - title: "STAT5-mediated chromatin interactions in super-enhancers activate IL-2 highly inducible genes: Functional dissection of the Il2ra gene locus."
-  image: STS_news.png
+  image: STAT5_SE_PNAS.png
   description: We succeeded in measuring the superfluid density with atomic resolution on an unconventional superconductor! In contrast to expectations for conventional superconductors, we find that the superfluid densisty is strongly inhomogeneous in FeTe0.55Se0.45.
   authors: Li P, Mitra S, Spolski R, Oh J, Liao W, Tang Z, Mo F, Li X, West EE, Gromer D, Lin JX, Liu C, Ruan Y, Leonard WJ
   link:
@@ -88,7 +88,7 @@
   news2:
 
 - title: "Interleukin-2 activity can be fine-tuned with engineered receptor signaling clamps."
-  image: SmartPub.png
+  image: IL2_engineering_Cell.png
   description: We introduce a platform for bringing new, device-based functionality to STM, with the goal of utilizing decades of progress in device engineering for the field of scanning probe.
   authors: Mitra S, Ring AM, Amarnath S, Spangler JB, Li P, Ju W, Fischer S, Oh J, Spolski R, Weiskopf K, Kohrt H, Foley JE, Rajagopalan S, Long EO, Fowler DH, Waldmann TA, Garcia KC, Leonard WJ
   link:
