@@ -1,8 +1,10 @@
 - name: Suman Mitra
-  photo: profil-picture-neutre.jpg
-  info: Principal Investigator, started Nov 2018
+  photo: suman.jpg
+  info: Principal Investigator at OncoLille, Lille, France since 2019. Associated Guest Researcher at the Department of Medicine, Karolinska Institute, Sweden.
   email: suman.mitra@inserm.fr
-  number_educ: 0
+  number_educ: 2
+  education1: Ph.D from University of Aberdeen, UK, 2011
+  education2: PostDoctoral fellow with Dr. Warren J. Leonard at NHLBI, NIH (2011-2016)
 
 - name: Silvia Gaggero
   photo: silvia.jpg
@@ -20,7 +22,7 @@
   number_educ: 0
 
 - name: Adeline Cozzanni
-  photo: profil-picture-neutre.jpg
+  photo: adeline.jpg
   info: Biological engineer, started Nov 2018
   email: adeline.cozzani@inserm.fr
   number_educ: 0
