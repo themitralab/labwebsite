@@ -84,7 +84,7 @@
   link:
     url: https://www.pnas.org/content/pnas/114/46/12111.full.pdf
     display:  PNAS November 14, 2017 114 (46)
-  highlight: 1
+  highlight: 0
   news2:
 
 - title: "Interleukin-2 activity can be fine-tuned with engineered receptor signaling clamps."
@@ -94,5 +94,5 @@
   link:
     url: https://www.cell.com/immunity/pdfExtended/S1074-7613(15)00178-8
     display: Immunity. 2015 May 19; 42(5). 
-  highlight: 1
+  highlight: 0
   news2:
