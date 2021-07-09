@@ -10,10 +10,8 @@
   photo: silvia.jpg
   info: Postdoc, started Nov 2018
   email: silvia.gaggero@inserm.fr
-  number_educ: 3
-  education1: Bachelor degree in Biotechnology (University of Genoa, IT)
-  education2: Master degree in Medical and Pharmaceutical Biotechnology (University of Genoa, IT)
-  education3: PhD in Immunology (University of Genoa, IT)
+  number_educ: 1
+  education1: Silvia works on cytokine engineering, in particular, on the common gamma chain cytokine family and how changing the affinity for their receptors can be exploited to modulate the immune response in the context of tumor immunotherapy. Outside the lab, she likes spending time in the mountain, reading and listening to opera and classical music.
 
 - name: Tiziano Ingegnere
   photo: tiziano.jpg
@@ -31,6 +29,5 @@
   photo: malo.jpg
   info: Bioinformatics engineer, started Feb 2021
   email: malo.leprohon@inserm.fr
-  number_educ: 2
-  education1: Bachelor degree in Biology (Université de Bretagne Occidentale)
-  education2: Master degree in Bioinformatics (University of Paris)
+  number_educ: 1
+  education1: Malo works on biomarkers in CAR T cells therapy, in particular, on defining genomic, epigenetic and transcriptomic biomarkers between complete-responders and non-responders to CAR T cells therapy in Non-Hodgkin lymphoma patients. Outside the lab, he likes playing video games, reading and traveling.
