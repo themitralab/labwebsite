@@ -53,7 +53,7 @@ At Mitra lab, we study mechanistic basis of cell-type-specific cytokine signalin
 
 To this end, we use system immunology, genetic and protein engineering approaches to elucidate cytokine activity in inflammatory tissue microenvironment and cancer. For validation of our hypothesis, we use various animal models and organoids. (see [Research](research)).
 
-The Mitra lab works closely with clinical investigators at the department of Hematology, Centre Hospitalier Universitaire de Lille (CHRU) France to identify biomarkers of response and resistance to synthetic immunotherapies against cancer.
+The Mitra lab works closely with clinical investigators at the Canther laboratory in the Leukemia team at the Onco Lille in close collaboration with clinical investigators at the Department of Hematology, Centre Hospitalier Universitaire de Lille (CHRU) France to identify biomarkers of response and resistance to synthetic immunotherapies against cancer.
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
