@@ -64,7 +64,7 @@ The Mitra lab works closely with clinical investigators at the department of Hem
     <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LOGO_CHU_Lille.png" style="width: 100px">
     <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LOGO_lille_univ.png" style="width: 180px">
     <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LOGO_oncolille.png" style="width: 180px">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LOGO_canther.jpg" style="width: 180px">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LOGO_cnrs.png" style="width: 180px">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LOGO_canther.jpg" style="width: 130px">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LOGO_cnrs.png" style="width: 100px">
   </p>
 </figure>
