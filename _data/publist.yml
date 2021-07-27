@@ -3,8 +3,8 @@
   description: CDK8 represses IL-6-mediated transcription by limiting STAT3 resident time at the gene loci. By regulating CDK8 expression levels, immune cells can adapt their responses to STAT3-activating cytokines.
   authors: Martinez F. J, Wang L, Pohler E, Lokau J, Garbers C, Cozzani A, Kazemian M, Mitra S, Moraga I.
   link:
-    url: https://www.cell.com/cell-reports/pdf/S2211-1247(20)31534-5.pdf
-    display:  Cell Reports, 2020 33 (12)
+    url: CDK8_IL6_CellReports.pdf
+    display:  Cell Reports, 2020 3 3 (12)
   highlight: 1
   news2:
 
@@ -13,7 +13,7 @@
   description: This work presents a flexible, precise, and efficient selection strategy to engineer cells using CRISPR-Cas and base editing systems. The method enables the rapid generation of a homogenous cell population with bi-allelic integration of a DNA casette at the selection locus, without clonal isolation.
   authors: Li S, Akrap N, Cerboni S, Porritt M, Wimberger S, Lundin A, Möller C, Firth M, Gordon E, Lazovic B, Sienska A, Simona Pene L, Coelho M, Ciotta G, Pellegrini G, Sini M, Xu X, Mitra S, Bohlooly-Y M, Taylor B, Sienski G, and  Maresca M.
   link:
-    url: https://www.nature.com/articles/s41467-020-20810-z.pdf
+    url: toxin_based_selection_NatureCom.pdf
     display: Nature Communications, 12, 497, 2021
   highlight: 1
 
@@ -22,7 +22,7 @@
   description: A review about how cytokines regulate intracellular networks and control human Th17 plasticity. We discuss the importantance of Th17 plasticity in autoimmunity and cancer and present current strategies and challenges in targeting pathogenic Th17 cells with cytokines-based approaches.
   authors: Cerboni S, Gehrmann U, Preite S, Mitra S.
   link:
-    url: https://onlinelibrary.wiley.com/doi/epdf/10.1111/imm.13280
+    url: cytokines_Th17_plasticity_Immunology.pdf
     display:  Immunology, 163, 1, 2021
   highlight: 1
 
@@ -31,7 +31,7 @@
   description: A review about the complex functions of myeloid-derived cytokines in both supporting and suppresing natural killer (NK) cells in the tumor microenvironment (TME). We present strategies using pathways involved in the NK-myeloid cell crosstalk in the TME to improve NK cell-base immunotherapies.
   authors: Gaggero S, Witt K, Carlsten M# and Mitra S
   link:
-    url: https://www.readcube.com/articles/10.3389/fimmu.2020.621225
+    url: cytokine_NK_tumor_FrontiersImmuno.pdf
     display: Frontiers of Immunology, 11:621225 2021
   highlight: 1
   news2:
@@ -42,7 +42,7 @@
   description: LDH inhibition enhanced the generation of memory cells capable of triggering robust antitumor responses after adoptive transfer. Combined with IL-21, LDH inhibition resulted in more profound antitumor responses and prolonged host survival. This underscores the therapeutic potential of transiently inhibiting LDH during adoptive T cell-base immunotherapy, with an unanticipated cooperative anti-tumor effect of LDH inhibition and IL-21. 
   authors: Hermans D, Gautam S, García-Cañaveras JC, Gromer D, Mitra S, Spolski R1, Li P, Christensen S, Lin JX, Oh J, Du N, Veenbergen S, Fioravanti J, Ebina-Shibuya R, Bleck C, Neckers LM, Rabinowitz JD, Gattinoni L, Leonard WJ
   link:
-    url: https://www.pnas.org/content/pnas/117/11/6047.full.pdf
+    url: LDH_IL21_CD8_Tcell_PNAS.pdf
     display:  PNAS, 2020 117 (11) 6047-6055
   highlight: 1
   news2:
@@ -52,7 +52,7 @@
   authors: Nasrallah R, Grant FM, Bossini-Castill L, Imianowski CJ, Sadiyah F, Mumbach MR, Glinos D, Vardaka P, Lozan T, Fujii H, , Yang J, Andrews S, Mitra S, Unutmaz D, Lugli E Trynka G and Roychoudhuri R
   description: The functions of a vast majority of disease-associated enhancers are unresolved. This work provides a mechanistic basis for association of the 11q13.5 risk locus with immune-mediated diseases and identify GARP as a potential target in their therapy.
   link:
-    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7116706/pdf/EMS113482.pdf
+    url: enhancer_colitis_suppression_Nature.pdf
     display:  Nature volume 583, pages 447–452 (2020)
   highlight: 1
   news2:
@@ -62,7 +62,7 @@
   authors: Karlsson J, Nilsson LM, Mitra S, Alsén S, Shelke G, Sah VR, Stierner U, Forsberg EV, All-Eriksson C, Einarsdottir B, Jespersen H, Ny L, Lindnér P, Larsson E, Bagge RO, Nilsson JA
   description: This work presents a large whole-genome analysis of metastatic uveal melanoma. It highlights the role of BAP1 alteration as a riving event for uveal melanoma progression. Transcriptomic analysis showed a high expression of immune checkpoint receptors TIM-3, TIGIT and LAG3 in Tumor-infiltrating lymphocytes.
   link:
-    url: https://www.nature.com/articles/s41467-020-15606-0.pdf
+    url: driver_events_melanoma_NatureCom.pdf
     display:  Nature Communications volume 11, 1894 (2020) 
   highlight: 1
   news2:
@@ -72,7 +72,7 @@
   description: Cytokines activate signaling via assembly of cell surface receptors. Engineered IL-6 variants with different affinities to gp130 induced biased signaling, with changes in receptor binding dwell-times affecting more profoundly STAT1 than STAT3 phosphorylation. This demonstrate that manipulation of signaling thresholds is a useful strategy to decouple cytokine functional pleiotropy.
   authors: Martinez F. J, Wilmes S, Wang L, Hafer M, Pohler E, Lokau J, Garbers C, Cozzani A, Piehler J, Kazeman M, Mitra S, Moraga I
   link:
-    url: https://www.readcube.com/articles/10.7554/eLife.49314
+    url: cytokine_receptor_kinetics_eLife.pdf
     display:  eLife 2019 8;e49314
   highlight: 1
   news2:
@@ -82,7 +82,7 @@
   description: 
   authors: Li P, Mitra S, Spolski R, Oh J, Liao W, Tang Z, Mo F, Li X, West EE, Gromer D, Lin JX, Liu C, Ruan Y, Leonard WJ
   link:
-    url: https://www.pnas.org/content/pnas/114/46/12111.full.pdf
+    url: STAT5_super_enhancer_IL2_PNAS.pdf
     display:  PNAS November 14, 2017 114 (46)
   highlight: 0
   news2:
@@ -92,7 +92,7 @@
   description: 
   authors: Mitra S, Ring AM, Amarnath S, Spangler JB, Li P, Ju W, Fischer S, Oh J, Spolski R, Weiskopf K, Kohrt H, Foley JE, Rajagopalan S, Long EO, Fowler DH, Waldmann TA, Garcia KC, Leonard WJ
   link:
-    url: https://www.cell.com/immunity/pdfExtended/S1074-7613(15)00178-8
+    url: IL2_engineered_receptor_Immunity.pdf
     display: Immunity. 2015 May 19; 42(5). 
   highlight: 0
   news2:
