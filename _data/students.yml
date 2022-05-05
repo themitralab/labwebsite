@@ -7,3 +7,13 @@
 #  education2:
 #  education3:
 #  education4:
+# THIS SECTIONS FOR MASTER AND PHD STUDENTS ONLY
+
+- name: Anji WANG
+  photo: rock.jpg
+  info: Pharmacy Master student
+  email:
+  number_educ: 3
+  education1: Shanghai Jiaotong University
+  education2: phamacy student 
+  education3: Nationality: China 
