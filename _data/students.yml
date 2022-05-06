@@ -7,3 +7,13 @@
 #  education2:
 #  education3:
 #  education4:
+# THIS SECTIONS FOR MASTER AND PHD STUDENTS ONLY
+
+- name: Anji WANG
+  photo: profil-picture-neutre.jpg
+  info: Pharmacy Master student
+  email:
+  number_educ: 2
+  education1: Shanghai Jiaotong University  
+  education2: School of Pharmacy, University of Lille
+  #education3: 
