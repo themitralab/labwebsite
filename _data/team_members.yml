@@ -15,7 +15,7 @@
 
 - name: Tiziano Ingegnere
   photo: tiziano.jpg
-  info: Postdoc, started Feb 2021
+  info: Postdoc, started Feb 2021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
   email: tiziano.ingegnere@inserm.fr
   number_educ: 1
   education1: Tiziano work is mainly focused on CAR NK cells. Specifically, how to improve CAR-NK cells functions and persistence using engineered cytokines. Tiziano love good stories, from science or history, in the form of papers, books, films or tv series. He also loves hiking and traveling, always looking for something new. Of course, he always has time for a good drink of wine with friends.
@@ -24,7 +24,8 @@
   photo: adeline.jpg
   info: Biological engineer, started Nov 2018
   email: adeline.cozzani@inserm.fr
-  number_educ: 0
+  number_educ: 1
+  education1: Adeline works on various projects related to CAR T cell design. She is also in charge of lab management.
 
 - name: Malo Leprohon
   photo: malo.jpg
