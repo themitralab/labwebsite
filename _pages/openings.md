@@ -21,5 +21,5 @@ Sometimes, we take master students or summer interns if we get exceptional appli
 
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/ircl.png" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/oncolille.jpg" width="95%">
 </figure>
