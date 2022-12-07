@@ -9,3 +9,11 @@
   education2:
   education3:
   education4:
+
+- name: Tiziano Ingegnere
+  photo: tiziano.jpg
+  duration : Postdoc, Feb 2021 - October 2022
+  info :
+  email:
+  number_educ: 0
+
