@@ -146,7 +146,37 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 - Prof. Joseph Melenhorst (UPenn, USA)
 - Associate Prof Mattias Carlsten (Karolinska, USA)
 
+## Alumni
 
+{% assign number_printed = 0 %}
+{% for member in site.data.alumni_members %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.duration }} <br>
+  <ul style="overflow: hidden">
+
+  </ul>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
 
 ## Former visitors, BSc/ MSc students
 <div class="row">
