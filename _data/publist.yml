@@ -1,3 +1,13 @@
+- title: "IL-2 is inactivated by the acidic pH environment of tumors enabling engineering of a pH-selective mutein"
+  image: sciimmunol.2022.7.issue-78.largecover.png
+  description: Cytokines are extremely sensitive to the acidic pH found in tumors and lymph nodes. The activity of IL-2, a cytokine central to T cell responses, is highly limited at acidic pH. Using in vitro evolution, a new IL-2 variant, Switch-2, was developped. It exhibits enhanced activity at acidic pH but, exhibits reduced activity at the neutral pH found in healthy tissue. Switch-2 therapy in mice triggered potent antitumor responses while avoiding the severe systemic toxicity associated with IL-2 therapies.
+  authors: Gaggero S, Martinez-Fabregas J, Cozzani A, Fyfe PK, Leprohon M, Yang J, Thomasen FE, Winkelmann H, Magnez R, Conti AG, Wilmes S, Pohler E, van Gijsel Bonnello M, Thuru X, Quesnel B, Soncin F, Piehler J, Lindorff-Larsen K, Roychoudhuri R, Moraga I, Mitra S.
+  link:
+    url: CDK8_IL6_CellReports.pdf
+    display:  Sci. Immunol.7,eade5686(2022).
+  highlight: 1
+  news2:
+
 - title: "CDK8 fine-tunes IL-6 transcriptional activities by limiting STAT3 resident time at the gene loci."
   image: CDK8_Cell_pic.png
   description: CDK8 represses IL-6-mediated transcription by limiting STAT3 resident time at the gene loci. By regulating CDK8 expression levels, immune cells can adapt their responses to STAT3-activating cytokines.
