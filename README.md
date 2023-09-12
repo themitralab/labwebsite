@@ -10,4 +10,5 @@ Go to *aboutwebsite.md*  to learn how to copy and modidy this page for your purp
 Copyright Allan Lab. Code released under the MIT License.
 
 Suggestions/comments from Malo:
-data: location for most of the text files. 
+data: location for most of the text files. regular updates etc.
+Page: is for specific text file such as open position (not for regular text files such as new mebers or ex-members)
