@@ -8,7 +8,6 @@ permalink: /vacancies
 
 # Open positions
 
-**Note: We currently have a talented postdoc (2-3 years) to work with us in Fondation ARC funded project. Please [contact us](mailto:suman.mitra@inserm.fr") if you’re interested to work on a high collaborative translational project involving CAR-T cells.**
 
 We are always looking for new group members with passion, talent, and grit!
 
