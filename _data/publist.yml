@@ -3,7 +3,7 @@
   description: Cytokines are extremely sensitive to the acidic pH found in tumors and lymph nodes. The activity of IL-2, a cytokine central to T cell responses, is highly limited at acidic pH. Using in vitro evolution, a new IL-2 variant, Switch-2, was developped. It exhibits enhanced activity at acidic pH but, exhibits reduced activity at the neutral pH found in healthy tissue. Switch-2 therapy in mice triggered potent antitumor responses while avoiding the severe systemic toxicity associated with IL-2 therapies.
   authors: Gaggero S, Martinez-Fabregas J, Cozzani A, Fyfe PK, Leprohon M, Yang J, Thomasen FE, Winkelmann H, Magnez R, Conti AG, Wilmes S, Pohler E, van Gijsel Bonnello M, Thuru X, Quesnel B, Soncin F, Piehler J, Lindorff-Larsen K, Roychoudhuri R, Moraga I, Mitra S.
   link:
-    url: CDK8_IL6_CellReports.pdf
+    url: pH_resistant_IL2_mutant.pdf
     display:  Sci. Immunol.7,eade5686(2022).
   highlight: 1
   news2:
