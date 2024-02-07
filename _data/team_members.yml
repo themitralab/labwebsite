@@ -20,12 +20,12 @@
   number_educ: 1
   education1: Adeline works on various projects related to CAR T cell design. She is also in charge of lab management.
 
-- name: Malo Leprohon
-  photo: malo.jpg
-  info: Bioinformatics engineer, started Feb 2021
-  email: malo.leprohon@inserm.fr
-  number_educ: 1
-  education1: Malo works on biomarkers in CAR T cells therapy, in particular, on defining genomic, epigenetic and transcriptomic biomarkers between complete-responders and non-responders to CAR T cells therapy in Non-Hodgkin lymphoma patients. Outside the lab, he likes playing video games, reading and traveling.
+- name: Leila Mohammadnezhad
+  photo: profil-picture-neutre.jpg
+  info: Postdoc, started Dec 2023
+  email: leila.mohammadnezhad@inserm.fr
+  number_educ: 0
+  education1: 
 
 - name: Benjamin Segain
   photo: benjamin.jpg
